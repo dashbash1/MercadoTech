@@ -1,5 +1,5 @@
 # MercadoTech
 Ejercitacion Integradora
-Matias Muñoz
+Matias Muñoz :cowboy_hat_face:
 Joel Ferreira
 Jocias Ademoil
